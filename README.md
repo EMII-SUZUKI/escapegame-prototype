@@ -1,2 +1,0 @@
-# escapegame-prototype
-GitHubを使った脱出型謎解きゲームのプロトタイプ
